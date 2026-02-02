@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
+import 'package:markdown/markdown.dart' as md;
 import '../themes/terminal_theme.dart';
 import '../services/syntax_highlighter_service.dart';
 
